@@ -1,0 +1,9 @@
+Package: unf
+Title: Multidimensional Uniformity Test
+Version: 1.0
+Date: June 17, 2012
+Author: Guillaume Filion, Ben Pfaff
+Maintainer: Guillaume Filion <guillaume.filion@gmail.com>
+Description: Wrapper for Ben Pfaff's implementation of Smith and Jain
+        test of uniformity.
+License: GPL-2
