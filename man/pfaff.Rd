@@ -1,12 +1,12 @@
-\name{unf}
-\alias{unf}
+\name{pfaff}
+\alias{pfaff}
 
 \title{Multidimensional Uniformity Test}
 \description{
 Return the p-value of MST-based test of Smith and Jain.
 }
 \usage{
-unf(x)
+pfaff(x)
 }
 
 \arguments{
@@ -23,7 +23,7 @@ unf(x)
   This method computes the MST of the column vectors of \code{x}
   and uses it to test their uniformity within an approximate hull.
 
-  The result is output as the probability of a t-test.
+  The output is the p-value of a t-test.
 }
 
 \value{
